@@ -65,13 +65,15 @@ loadstring(game:HttpGet("https://pastebin.com/raw/Xrhe6eWL"))()
 
 ### UI
 
-(./img/ss.jpg)
+#### AxZ Spam Main Interface:-
+
+![AxZ Spammer Main Interface](./img/ss.jpg)
 ---
-# <p align="center">Thank You for Using MrScan!
+# <p align="center">Thank You for Using AxZ!
 <p align="center">
-If you found MrScan useful, consider giving the repository a ⭐ and sharing it with others. 
+If you found AxZ useful, consider giving the repository a ⭐ and sharing it with others. 
 
 <p align="center">
   <img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH%20%E2%80%A2-006A4E?style=for-the-badge&labelColor=F42A41">
-  <img title="Developer Jarif" src="https://img.shields.io/badge/DEVELOPER-JARIF-7C4DFF?style=for-the-badge&labelColor=111111">
+  <img title="Developer Shaishiro" src="https://img.shields.io/badge/DEVELOPER-SHEISHIRO-7C4DFF?style=for-the-badge&labelColor=111111">
 </p>
